@@ -22,3 +22,14 @@ function FormRest (event)
 {
   event.preventDefault()
 }
+let Name='kens'
+if (Name=="kns")
+{
+console.log("hello")
+}
+else
+{
+  console.log("not correct")
+
+} 
+// document.getElementById("if").innerHTML
